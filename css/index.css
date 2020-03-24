@@ -1,0 +1,48 @@
+h1 {
+    font-family: 'league_gothicregular';
+	font-weight:normal;
+	font-style:normal;
+    font-size: 93pt;
+}
+
+h2 {
+    font-family: 'kollektifregular';
+	font-weight:normal;
+	font-style:normal;
+    font-size: 24pt;
+}
+
+body {
+	background-color: #080706;
+	color: #efefef;
+    height: 100%;
+}
+
+hr {
+    margin-left: 0px;
+    width: 80%;
+    border-radius: 2px;
+    height: 2px;
+}
+
+.seperator {
+    color: #F35F19;
+}
+
+.links {
+    font-family: 'simple-line-iconsline-icons';
+	font-weight:normal;
+	font-style:normal;
+    font-size: 24pt;
+}
+
+.title-seperator {
+    background: linear-gradient(to right, #8366b4 , #36c590);
+}
+
+.description {
+    padding-top: 30px;
+    padding-left: 7px;
+    padding-bottom: 5px;
+    padding-right: 7px;
+}
